@@ -1,0 +1,7 @@
+El uso de Git es importante porque permite llevar un control organizado de los cambios realizados en un proyecto de software.
+Gracias a esta herramienta es posible conocer qué modificaciones se hicieron y cuándo fueron realizadas.
+También facilita recuperar versiones anteriores si ocurre algún error.
+Git ayuda a mantener la trazabilidad del desarrollo y mejora la organización del trabajo.
+Además, permite que varias personas colaboren en un mismo proyecto de forma segura.
+El historial de cambios facilita la identificación de problemas y la implementación de mejoras.
+Su utilización contribuye a mantener la calidad del software y optimiza el trabajo en equipo.
